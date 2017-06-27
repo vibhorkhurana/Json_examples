@@ -1,0 +1,11 @@
+{
+  "d": {
+    "hardware": "123-TEST-VIBHOR",
+    "type": "Device Measurements",
+    "request": {
+      "humidity": 76,
+      "temperature": 25,
+      "updateState": true
+    }
+  }
+}

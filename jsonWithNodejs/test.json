@@ -1,0 +1,8 @@
+{
+    "device_id": "sample Json",
+    "measurements": {
+        "temperature": 25,
+        "humidity": 45
+    },
+    "date": "25-05-2014"
+}
